@@ -1,2 +1,2 @@
 # ProjetInitial
-# conversion float etdonnees gps
+# conversion float et donnees gps
